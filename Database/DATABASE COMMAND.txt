@@ -1,0 +1,87 @@
+SHOW DATABASES;
+CREATE DATABASE dbname;
+DROP DATABASE dbname;
+
+CREATE TABLE table_name
+(
+column_namel data_type (size) ,
+column_name2 data_type (size) ,
+column_name3 data_type (size),
+.....
+PRIMARY KEY(column_namel)
+);
+
+
+RENAME TABLE old_name TO new_name;
+
+DROP TABLE table_name;
+
+
+INSERT INTO table_name
+VALUES (valuel, value2, value3,...);
+
+INSERT INTO table_name (columnl, column2, column3, ...,columnN)
+VALUES (vatuel, value2, value3,...valueN);
+
+
+CRATE DATABASE tms;
+
+CREATE TABLE account(
+username varchar (20) ,
+id varchar (30) ,
+number varchar (20),
+name varchar(20),
+gender varchar(30),
+country varchar(20),
+address varchar(50),
+email varchar(40),
+PRIMARY KEY(username)
+);
+
+CREATE TABLE customer(
+username varchar (20) ,
+id varchar (30) ,
+number varchar (20),
+name varchar(20),
+gender varchar(30),
+country varchar(20),
+address varchar(50),
+email varchar(40)
+
+);
+
+CREATE TABLE bookpackage(
+username varchar (20) ,
+package varchar (30) ,
+persons varchar (20),
+id varchar(20),
+number varchar(30),
+price varchar(20)
+);
+
+
+CREATE TABLE hotel
+(
+name varchar (30) ,
+costperperson varchar (30) ,
+acroom varchar (10) ,
+foodincluded varchar (10) 
+);
+
+insert into hotel values('Ocean Paradise Hotel & Resort','3400','1000','1700');
+insert into hotel values('Praasad Paradise','4500','1600','2000');
+insert into hotel values('Ratnodweep Resort','5000','2000','2500');
+
+CREATE TABLE bookhotel
+(
+username varchar (20) ,
+name varchar (50) ,
+persons varchar (10) ,
+days varchar (10) ,
+ac varchar (10) ,
+food varchar (10) ,
+id varchar(20),
+number varchar (20) ,
+price varchar (20)
+);
+
