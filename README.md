@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://github.com/tuRjoX/Tripify-A-Travel-and-Tourisam-Management-Solutio/blob/master/images/Logo.jpg">
+<img align="right" alt="coding" width="400" src="https://github.com/tuRjoX/Tripify-A-Travel-and-Tourisam-Management-Solution/blob/master/images/Logo.jpg">
 
 # Tripify - A Travel & Tourism Solution
 
