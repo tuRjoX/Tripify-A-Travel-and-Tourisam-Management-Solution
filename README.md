@@ -1,4 +1,6 @@
-<img align="right" alt="coding" width="400" src="https://github.com/tuRjoX/Tripify-A-Travel-and-Tourisam-Management-Solution/blob/master/images/Logo.jpg">
+<div align="center">
+    <img alt="coding" width="400" src="https://github.com/tuRjoX/Tripify-A-Travel-and-Tourisam-Management-Solution/blob/master/images/Logo.jpg">
+</div>
 
 # Tripify - A Travel & Tourism Solution
 
@@ -20,5 +22,3 @@ Tripify is a comprehensive travel and tourism solution designed to streamline th
 | Pretom Chandra Roy            | 22-48556-3    |
 | Kingkor Karmoker Mughdho      | 22-48573-3    |
 | Mutahhara Takia Jaman         | 22-48334-3    |
-
-
